@@ -1,4 +1,4 @@
-# Texas Hospital Quality Analysis
+# Texas Hospital Quality Case Study
 
 ## Project Overview
 The objective was to analyze CMS hospital quality, patient experience, and hospital wide readmission data for Texas acute care hospitals and identify hospitals and performance areas that may warrant additional quality improvement review.
