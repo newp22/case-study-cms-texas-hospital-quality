@@ -20,25 +20,23 @@ The analysis uses public hospital level data from the Centers for Medicare & Med
 
 ---
 ## Key Findings
-* 47.0% of hospitals with a reportable overall CMS rating received four or five stars, while 21.0% received one or two stars.
-* Medicine Communication had the lowest statewide HCAHPS median at 61%, compared with 86% for Discharge Information.
-* 93.3% of hospitals with a reportable readmission comparison were classified as No Different from national performance.
-* Patient recommendation and hospital-wide readmission showed a moderate negative relationship (r = -0.301, n = 250).
+* Most rated hospitals fell in the 3-4 star range.
+* Medicine communication is the weakest statewide HCAHPS measure.
+* Most texas hospitals were statistically similar to national readmission performance.
+* Higher recommendation is modestly associated with lower readmission.
 * 37 hospitals met at least two screening conditions, including 3 hospitals that met all three conditions.
-* 86 hospitals, or 30.2% of the population, lacked at least one screening input.
 
 ---
 ## Recommendations
-1. Prioritize the 37 hospitals with at least two screening signals for additional quality review, beginning with the 3 Priority 1 hospitals.
-2. Investigate medicine communication as a statewide patient-experience improvement opportunity.
-3. Focus detailed readmission review on the 10 hospitals classified as Worse than national performance.
-4. Track the 86 hospitals with incomplete screening data separately rather than interpreting missing measures as favorable performance.
-5. Investigate differences by hospital ownership using additional hospital characteristics before drawing conclusions about ownership.
+1. Prioritize review of the 37 hospitals with multiple screening signals, beginning with the three hospitals that met all three conditions.
+2. Investigate Medicine Communication as a statewide patient experience improvement area, comparing practices at stronger performing hospitals to identify potential process improvements.
+3. Use ownership results to guide deeper investigation, particularly the higher concentration of Priority 1-2 results among proprietary hospitals, while treating ownership as a descriptive grouping rather than a causal explanation.
 
 ---
 ## Project Deliverables
-* Excel analysis and visualization workbook (.xlsx)
+* Full report (.pdf)
 * Executive presentation (.pdf)
 * Data cleaning changelog (.pdf)
-* Full report (.pdf)
-* Consolidated Power Query code (.pq)
+* Data dictionary (.pdf)
+* Excel analysis and visualizations (.xlsx)
+* Power Query code (.pq)
